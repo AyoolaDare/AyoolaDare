@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+elasticsearch
+apscheduler
+pydantic-settings
+redis
